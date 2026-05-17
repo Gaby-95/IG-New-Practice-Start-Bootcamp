@@ -9,11 +9,11 @@ body {
 .post {
   width: 400px;
   background: white;
-  overflow: hidden; /* IMPORTANTE */
+  overflow: hidden; /
 }
 
 .post-header {
-  display: flex; /* FLEX */
+  display: flex; 
   justify-content: space-between;
   align-items: center;
   padding: 10px;
